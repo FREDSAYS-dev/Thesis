@@ -1,3 +1,0 @@
-
-# Thesis
-First commit
